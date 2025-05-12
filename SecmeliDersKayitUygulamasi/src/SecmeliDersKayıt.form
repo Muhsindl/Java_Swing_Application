@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.JCheckBox" name="jCheckBox17">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jCheckBox1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="jCheckBox18">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jCheckBox1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="jCheckBox19">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jCheckBox1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="jCheckBox20">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jCheckBox1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="jCheckBox21">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jCheckBox1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="jCheckBox22">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jCheckBox1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="jCheckBox23">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jCheckBox1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="jCheckBox24">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jCheckBox1"/>
+      </Properties>
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="176" max="-2" attributes="0"/>
+              <Component id="jLabel1" max="32767" attributes="0"/>
+              <EmptySpace min="-2" pref="172" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="175" max="-2" attributes="0"/>
+              <Component id="jButton1" pref="106" max="32767" attributes="0"/>
+              <EmptySpace min="-2" pref="194" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="chk15" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="chk14" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="chk25" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="chk24" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="chk35" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="chk34" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="chk45" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="chk44" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="chk13" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="chk12" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="chk23" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="chk22" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="chk33" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="chk32" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="chk43" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="chk42" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                          <Component id="chk11" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="chk21" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="chk31" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="chk41" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel5" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" max="-2" attributes="0"/>
+              <Component id="jLabel1" pref="27" max="32767" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabel2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel3" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel4" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel5" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="chk11" min="-2" max="-2" attributes="0"/>
+                  <Component id="chk21" min="-2" max="-2" attributes="0"/>
+                  <Component id="chk31" min="-2" max="-2" attributes="0"/>
+                  <Component id="chk41" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="chk12" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="chk13" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="chk22" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="chk23" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="chk32" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="chk33" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="chk42" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="chk43" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace type="separate" min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="chk14" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="chk15" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="chk24" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="chk25" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="chk34" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="chk35" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="chk44" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="chk45" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+              <Component id="jButton1" pref="26" max="32767" attributes="0"/>
+              <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tempus Sans ITC" size="18" style="3"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Ders Kay&#x131;t"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="chk11">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="1.S&#x131;n&#x131;f Ders 1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="chk21">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="2.S&#x131;n&#x131;f Ders 1 "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="chk31">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="3.S&#x131;n&#x131;f Ders 1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="chk41">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="4.S&#x131;n&#x131;f Ders 1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="chk22">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="2.S&#x131;n&#x131;f Ders 2"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="chk23">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="2.S&#x131;n&#x131;f Ders 3"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="chk32">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="3.S&#x131;n&#x131;f Ders 2"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="chk33">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="3.S&#x131;n&#x131;f Ders 3"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="chk42">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="4.S&#x131;n&#x131;f Ders 2"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="chk43">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="4.S&#x131;n&#x131;f Ders 3"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="chk12">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="1.S&#x131;n&#x131;f Ders 2"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="chk13">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="1.S&#x131;n&#x131;f Ders 3"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="chk24">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="2.S&#x131;n&#x131;f Ders 4"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="chk25">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="2.S&#x131;n&#x131;f Ders 5"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="chk34">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="3.S&#x131;n&#x131;f Ders 4"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="chk35">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="3.S&#x131;n&#x131;f Ders 5"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="chk44">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="4.S&#x131;n&#x131;f Ders 4"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="chk45">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="4.S&#x131;n&#x131;f Ders 5"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="chk14">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="1.S&#x131;n&#x131;f Ders 4"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="chk15">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="1.S&#x131;n&#x131;f Ders 5"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Rockwell" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="G&#xf6;nder"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Yu Gothic UI Semibold" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="1.S&#x131;n&#x131;f Se&#xe7;meli"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel3">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Yu Gothic UI Semibold" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="2.S&#x131;n&#x131;f Se&#xe7;meli"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel4">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Yu Gothic UI Semibold" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="3.S&#x131;n&#x131;f Se&#xe7;meli"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel5">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Yu Gothic UI Semibold" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="4.S&#x131;n&#x131;f Se&#xe7;meli"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
